@@ -254,7 +254,7 @@ toc:
 # Creative Commons 4.0 International License.
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
-#creative_commons: by-nc-sa
+creative_commons: by-nc-sa
 #creative_commons:
 
 
@@ -337,8 +337,8 @@ post_wordcount:
 # Declare license on posts
 post_copyright:
   enable: true
-  license: 
-  license_url: 
+  license: CC BY-NC-SA 3.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
 
 
