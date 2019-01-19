@@ -233,7 +233,7 @@ font:
 
   
 # reward
-reward_comment: 如果你觉得写得还不错，就拿钱砸我吧
+reward_comment: 如果对你有用，就拿钱砸我吧
 alipay: /images/reward_image/alipay-reward-image.jpg
 wechatpay: /images/reward_image/wechat-reward-image.jpg
 # Sidebar Avatar
