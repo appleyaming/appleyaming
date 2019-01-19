@@ -120,7 +120,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  sitemap: /sitemap.xml
+  #sitemap: /sitemap.xml
   commonweal: /404.html
 
 
@@ -137,9 +137,9 @@ menu_icons:
   about: user 
   tags: tags
   archives: archive
-  sitemap: sitemap
+  #sitemap: sitemap
   commonweal: heartbeat
-  schedule: calendar
+  #schedule: calendar
 
 
 
