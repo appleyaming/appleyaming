@@ -66,8 +66,8 @@ feed:
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
 plugins:
  #- jemoji
- - Hexo-sitemap
- - Hexo-feed
+ - Jekyll-sitemap
+ - Jekyll-feed
 
 # ---------------------------------------------------------------
 # Site Information Settings
@@ -77,7 +77,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "Jekyll, NexT"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
