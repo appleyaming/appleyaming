@@ -122,7 +122,6 @@ menu:
   tags: /tags/
   sitemap: /sitemap.xml
   commonweal: /404.html
-  search: /search.xml
 
 
 # Enable/Disable menu icons.
@@ -134,14 +133,13 @@ menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
-  about: user
   categories: th
-  schedule: calendar
+  about: user 
   tags: tags
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-
+  schedule: calendar
 
 
 
