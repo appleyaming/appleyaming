@@ -378,6 +378,12 @@ han: false
 # Swiftype Search API Key
 #swiftype_key:
 
+# Algolia Search API Key
+algolia:
+  applicationID: '31K8PJF103'
+  apiKey: '5ac9701685b5e683e31cbc4ca2381bbc'
+  indexName: 'test_NAME'
+  
 # Baidu Analytics ID
 baidu_analytics: 36443ede179652b0cf6a526f12b1976f
 
